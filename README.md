@@ -14,18 +14,20 @@ The resource is distributed as a TAB-separated file, with the following columns:
 
 The following 12 semantic categories are included:
 
-- ABBREV        abbreviations and acronyms
-- ANAT-LOC	    anatomical locations
-- CONDITION	    diseases, findings, symptoms 
-- DISCIPLINE	  medical disciplines / areas
-- MICROORGANISM bacteria, viruses etc.
-- ORGANIZATION	institutions etc.
-- OTHER		      category other than the ones specified
-- PERSON 	      types of practitioner or patient
-- PHYSIOLOGY 	  physiological functions
-- PROCEDURE 	  medical procedure and treatment types
-- SUBSTANCE 	  medicines and other substances
-- TOOL 		      medical instruments and tools
+|Category | Meaning|
+|:---: | :---|
+| ABBREV |       abbreviations and acronyms |
+| ANAT-LOC |	    anatomical locations |
+| CONDITION	|    diseases, findings, symptoms | 
+| DISCIPLINE	|  medical disciplines / areas |
+| MICROORGANISM | bacteria, viruses etc. |
+| ORGANIZATION	| institutions etc. |
+| OTHER	|	      category other than the ones specified |
+| PERSON |	      types of practitioner or patient |
+| PHYSIOLOGY |	  physiological functions |
+| PROCEDURE |	  medical procedure and treatment types |
+| SUBSTANCE | 	 medicines and other substances |
+| TOOL |		      medical instruments and tools |
 
 Terms from the following sources were included (available from ehelse.no unless otherwise indicated):
 - MO 		    Medisinsk ordbok 'Medical Dictionary' [Kunnskapsforlaget](https://kunnskapsforlaget.no/)
