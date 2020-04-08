@@ -30,14 +30,14 @@ The following 12 semantic categories are included:
 | SUBSTANCE | medicines and other substances |
 | TOOL | medical instruments and tools |
 
-Terms from the following sources were included (available from ehelse.no unless otherwise indicated):
+Terms from the following sources were included (available from the [Norwegian Directorate for e-health](https://ehelse.no/kodeverk) unless otherwise indicated):
 
 |Source ID | Source name|
 | :--- | :--- |
-| MO | Medisinsk ordbok 'Medical Dictionary' [Kunnskapsforlaget](https://kunnskapsforlaget.no/)
+| MO | Medisinsk ordbok 'Medical Dictionary' by [Kunnskapsforlaget](https://kunnskapsforlaget.no/)
 | ALOC | List of anatomical locations
 | FAM-HIST | [NorSynthClinical](https://github.com/ltgoslo/NorSynthClinical), a Norwegian synthetic corpus of clinical texts
-| FEST | Forskrivnings- og ekspedisjonsstøtte 'Prescribing and dispensing support' [Legemiddelverket](https://legemiddelverket.no/andre-temaer/fest)
+| FEST | Forskrivnings- og ekspedisjonsstøtte 'Prescribing and dispensing support' by [Legemiddelverket](https://legemiddelverket.no/andre-temaer/fest)
 | ICD-10 | International Statistical Classification of Diseases
 | ICPC-2 | International Classification of Primary Care
 | LABV | Laboratoriekodeverket 'List of laboratory codes'
