@@ -36,7 +36,7 @@ Terms from the following sources were included (available from ehelse.no unless 
 | :--- | :--- |
 | MO | Medisinsk ordbok 'Medical Dictionary' [Kunnskapsforlaget](https://kunnskapsforlaget.no/)
 | ALOC | List of anatomical locations
-| FAM-HIST [NorSynthClinical](https://github.com/ltgoslo/NorSynthClinical), a Norwegian synthetic corpus of clinical texts
+| FAM-HIST | [NorSynthClinical](https://github.com/ltgoslo/NorSynthClinical), a Norwegian synthetic corpus of clinical texts
 | FEST | Forskrivnings- og ekspedisjonsstøtte 'Prescribing and dispensing support' [Legemiddelverket](https://legemiddelverket.no/andre-temaer/fest)
 | ICD-10 | International Statistical Classification of Diseases
 | ICPC-2 | International Classification of Primary Care
