@@ -9,7 +9,7 @@ This work is funded by the Norwegian Research Council, more specifically by the 
 The resource is distributed as a TAB-separated file, with the following columns:
 - term
 - semantic category of entity
-- source (acronym of list/database)
+- source ID (acronym of list / database)
 - ICD code (if applicable)
 - mapping method ('manual' or 'automatic')
 
