@@ -14,30 +14,33 @@ The resource is distributed as a TAB-separated file, with the following columns:
 
 The following 12 semantic categories are included:
 
-|Category | Meaning|
-|:---: | :---|
-| ABBREV |       abbreviations and acronyms |
-| ANAT-LOC |	    anatomical locations |
-| CONDITION	|    diseases, findings, symptoms | 
-| DISCIPLINE	|  medical disciplines / areas |
+|Category | Explanation|
+|:--- | :---|
+| ABBREV | abbreviations and acronyms |
+| ANAT-LOC | anatomical locations |
+| CONDITION	| diseases, findings, symptoms | 
+| DISCIPLINE	| medical disciplines / areas |
 | MICROORGANISM | bacteria, viruses etc. |
 | ORGANIZATION	| institutions etc. |
-| OTHER	|	      category other than the ones specified |
-| PERSON |	      types of practitioner or patient |
-| PHYSIOLOGY |	  physiological functions |
-| PROCEDURE |	  medical procedure and treatment types |
-| SUBSTANCE | 	 medicines and other substances |
-| TOOL |		      medical instruments and tools |
+| OTHER	| category other than the ones specified |
+| PERSON | types of practitioner or patient |
+| PHYSIOLOGY | physiological functions |
+| PROCEDURE | medical procedure and treatment types |
+| SUBSTANCE | medicines and other substances |
+| TOOL | medical instruments and tools |
 
 Terms from the following sources were included (available from ehelse.no unless otherwise indicated):
-- MO 		    Medisinsk ordbok 'Medical Dictionary' [Kunnskapsforlaget](https://kunnskapsforlaget.no/)
-- ALOC		  List of anatomical locations
-- FAM-HIST [NorSynthClinical](https://github.com/ltgoslo/NorSynthClinical), a Norwegian synthetic corpus of clinical texts
-- FEST      Forskrivnings- og ekspedisjonsstøtte 'Prescribing and dispensing support' [Legemiddelverket](https://legemiddelverket.no/andre-temaer/fest)
-- ICD-10 	  International Statistical Classification of Diseases
-- ICPC-2 	  International Classification of Primary Care
-- LABV 		  Laboratoriekodeverket 'List of laboratory codes'
-- PROC 		  Prosedyrekodeverken 'Procedure Coding Schemes'
+
+|Source ID | Source name|
+| :--- | :--- |
+| MO | Medisinsk ordbok 'Medical Dictionary' [Kunnskapsforlaget](https://kunnskapsforlaget.no/)
+| ALOC | List of anatomical locations
+| FAM-HIST [NorSynthClinical](https://github.com/ltgoslo/NorSynthClinical), a Norwegian synthetic corpus of clinical texts
+| FEST | Forskrivnings- og ekspedisjonsstøtte 'Prescribing and dispensing support' [Legemiddelverket](https://legemiddelverket.no/andre-temaer/fest)
+| ICD-10 | International Statistical Classification of Diseases
+| ICPC-2 | International Classification of Primary Care
+| LABV | Laboratoriekodeverket 'List of laboratory codes'
+| PROC | Prosedyrekodeverken 'Procedure Coding Schemes'
 
 # Citing
 
