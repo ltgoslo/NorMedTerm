@@ -1,7 +1,7 @@
 
 **NorMedTerm** is a large Norwegian lexical resource of medical entities mapped to semantic categories. The resource contains over 77,000 unique entries and merges terms from several medical databases. Most terms are mapped based on database information, some (ca. 14%) are automatically mapped based on heuristics, of which a smaller amount (ca. 1000 terms) were also manually evaluated and revised. 
 
-This work is funded by the Norwegian Research Council, more specifically by the [BigMed] (https://bigmed.no/) project.
+This work is funded by the Norwegian Research Council, more specifically by the [BIGMED](https://bigmed.no/) project.
 
 # Format
 
