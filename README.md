@@ -48,4 +48,7 @@ Terms from the following sources were included (available from the [Norwegian Di
 Please refer to the following article when using this resource:
 
 Ildikó Pilán, Pål H. Brekke, Lilja Øvrelid. Building a Norwegian Lexical Resource for Medical Entity Recognition. To appear in *Proceedings of the 2nd workshop on Multilingual Biomedical Text Processing* (MultilingualBIO). [PDF](http://arxiv.org/abs/2004.02509)
- 
+
+## Terms of use
+
+This resource is distributed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
