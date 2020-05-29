@@ -51,4 +51,4 @@ Ildikó Pilán, Pål H. Brekke, Lilja Øvrelid. Building a Norwegian Lexical Res
 
 ## Terms of use
 
-This resource is distributed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
+This resource is distributed under the [CC BY 4.0](https://www.aclweb.org/anthology/2020.multilingualbio-1.2.pdf) licence.
